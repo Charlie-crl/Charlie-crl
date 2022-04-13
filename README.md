@@ -13,7 +13,7 @@
 
 3.本科毕业后的暑假实习： [RPA产品从策划到研发](https://github.com/Charlie-crl/RPA-In-Financial-Reimbursement)
 
-4.网易有道一面后，面试官让我短时间将一个情感分析py文件用hylang重构，我花了一晚上重构完成，获得了二面机会： [hylang重构](https://github.com/Charlie-crl/sentiment-analysis-in-weibo-using-hylang)
+4.网易有道一面后，面试官让我短时间将自己写的情感分析py文件用hylang重构，我通宵了一晚上重构完成，获得了二面机会： [hylang重构](https://github.com/Charlie-crl/sentiment-analysis-in-weibo-using-hylang)
 
 ### 本科
 
