@@ -1,6 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Charlie-crl&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-### Hello World 👋
+### Hey Guys 👋
 
 我是程序员Charlie，目前在北服攻读计算机硕士学位，研究方向是计算机视觉，Fashion AI。
 
