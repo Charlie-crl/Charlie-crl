@@ -7,13 +7,13 @@
 
 ### 研究生
 
-1.用RASA框架做的订机票demo chatbot： [task-chatbot-sample-using-RASA](https://github.com/Charlie-crl/task-chatbot-sample-using-RASA)
+1.本科毕业后的暑假实习： [RPA产品从策划到研发](https://github.com/Charlie-crl/RPA-In-Financial-Reimbursement)
 
 2.爬取服装图片做CV研究： [Clothing-picture-crawler-using-scrapy](https://github.com/Charlie-crl/Clothing-picture-crawler-using-scrapy)
 
-3.本科毕业后的暑假实习： [RPA产品从策划到研发](https://github.com/Charlie-crl/RPA-In-Financial-Reimbursement)
+3.用RASA框架做的订机票demo chatbot： [task-chatbot-sample-using-RASA](https://github.com/Charlie-crl/task-chatbot-sample-using-RASA)
 
-4.网易有道（python岗）一面后，面试官让我短时间将自己写的情感分析py文件用hylang重构，我熬夜了一晚上重构完成，获得了二面机会： [hylang重构](https://github.com/Charlie-crl/sentiment-analysis-in-weibo-using-hylang)
+4.查阅大量文献，根据自己的理解，写了一个生成对抗网络概述： [GAN概述](https://github.com/Charlie-crl/sentiment-analysis-in-weibo-using-hylang)
 
 ### 本科
 
