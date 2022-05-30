@@ -13,7 +13,7 @@
 
 3.用RASA框架做的订机票demo chatbot： [task-chatbot-sample-using-RASA](https://github.com/Charlie-crl/task-chatbot-sample-using-RASA)
 
-4.查阅大量文献，根据自己的理解，写了一个生成对抗网络概述： [GAN概述](https://github.com/Charlie-crl/sentiment-analysis-in-weibo-using-hylang)
+4.查阅大量文献，根据自己的理解，写了一个生成对抗网络概述： [GAN概述](https://github.com/Charlie-crl/Generative-Adversarial-Nets-Overview)
 
 ### 本科
 
