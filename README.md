@@ -7,11 +7,11 @@
 
 ### 研究生
 
-1.本科毕业后的暑假实习： [RPA产品从策划到研发](https://github.com/Charlie-crl/RPA-In-Financial-Reimbursement)
-2.爬取服装图片做CV研究： [Clothing-picture-crawler-using-scrapy](https://github.com/Charlie-crl/Clothing-picture-crawler-using-scrapy)
-3.用RASA框架做的订机票demo chatbot： [task-chatbot-sample-using-RASA](https://github.com/Charlie-crl/task-chatbot-sample-using-RASA)
-4.查阅大量文献，根据自己的理解，写了一个生成对抗网络概述： [GAN概述](https://github.com/Charlie-crl/Generative-Adversarial-Nets-Overview-)
-5.大数据分析课程作业：[PM2.5的线性回归预测](https://github.com/Charlie-crl/LinearRegression-about-PM2.5)
+1.本科毕业后的暑假实习： [RPA产品从策划到研发](https://github.com/Charlie-crl/RPA-In-Financial-Reimbursement)  
+2.爬取服装图片做CV研究： [Clothing-picture-crawler-using-scrapy](https://github.com/Charlie-crl/Clothing-picture-crawler-using-scrapy)  
+3.用RASA框架做的订机票demo chatbot： [task-chatbot-sample-using-RASA](https://github.com/Charlie-crl/task-chatbot-sample-using-RASA)  
+4.查阅大量文献，根据自己的理解，写了一个生成对抗网络概述： [GAN概述](https://github.com/Charlie-crl/Generative-Adversarial-Nets-Overview-)  
+5.大数据分析课程作业：[PM2.5的线性回归预测](https://github.com/Charlie-crl/LinearRegression-about-PM2.5)  
 
 
 ### 本科
