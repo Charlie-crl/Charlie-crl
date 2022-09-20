@@ -19,4 +19,4 @@
 1.编译原理算法可视化：[javascript算法可视化](https://github.com/Charlie-crl/the-visualization-of-some-compiler-theory-algorithms)  
 2.用python写的一些算法题：[算法题（python）](https://github.com/Charlie-crl/Algorithm-Using-Python-)  
 3.情感分析毕设：[情感分析](https://github.com/Charlie-crl/sentiment-analysis-in-weibo)  
-4.本科毕业后的暑假实习： [RPA产品从策划到研发](https://github.com/Charlie-crl/RPA-In-Financial-Reimbursement)  
+4.本科毕业后的暑假实习的一个项目： [RPA产品从策划到研发](https://github.com/Charlie-crl/RPA-In-Financial-Reimbursement)  
