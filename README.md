@@ -11,7 +11,7 @@
 2.用RASA框架做的订机票demo chatbot： [task-chatbot-sample-using-RASA](https://github.com/Charlie-crl/task-chatbot-sample-using-RASA)  
 3.查阅大量文献，根据自己的理解，写了一个生成对抗网络概述： [GAN概述](https://github.com/Charlie-crl/Generative-Adversarial-Nets-Overview-)  
 4.大数据分析课程作业：[PM2.5的线性回归预测](https://github.com/Charlie-crl/LinearRegression-about-PM2.5)  
-5.DeepLearning入门扫盲：[deep learning资料总结](https://github.com/Charlie-crl/Something-useful-about-scientific-research)
+5.CV DeepLearning入门扫盲：[deep learning资料总结](https://github.com/Charlie-crl/Something-useful-about-scientific-research)
 
 
 ### 本科
