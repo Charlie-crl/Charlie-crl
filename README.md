@@ -2,7 +2,7 @@
 
 ### Hey Guys 👋
 
-我是Python程序员Charlie，目前在北服攻读计算机硕士学位，研究方向是计算机视觉，Fashion AI。
+我是程序员Charlie，目前在北服攻读计算机硕士学位，研究方向是计算机视觉，Fashion AI。
 
 
 ### 研究生
