@@ -2,7 +2,9 @@
 
 ### Hey Guys 👋
 
-我是程序员Charlie，目前在北服攻读计算机硕士学位，研究课题是T恤关键点检测，很喜欢Python这门语言。
+我是程序员Charlie  
+目前在北服攻读计算机硕士学位，研究课题是T恤关键点检测，很喜欢Python这门语言。  
+talk is cheap, show me the code!
 
 
 
