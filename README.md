@@ -3,7 +3,7 @@
 ### Hey Guys 👋
 
 我是程序员Charlie  
-目前在北服攻读计算机硕士学位，研究方向是目标检测。
+目前在北服攻读计算机硕士学位，研究方向是目标检测。  
 talk is cheap, show me the code!  
   
   
