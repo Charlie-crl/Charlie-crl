@@ -3,7 +3,9 @@
 ### Hey Guys 👋
 
 我是程序员Charlie  
-目前在河南大学攻读计算机博士学位，研究方向是多模态图像融合与检测。更新ing...
+目前在河南大学攻读计算机博士学位，研究方向是多模态图像融合与检测。
+
+更新ing...
 
 读博之前的记录：
 * 导师的一个任务，做T恤的属性识别。实验记录：[基于pytorch版本的Mask R-CNN来做T恤的属性识别](https://github.com/Charlie-crl/T-shirt-Attribute-Recognition-Based-on-Mask-R-CNN)
